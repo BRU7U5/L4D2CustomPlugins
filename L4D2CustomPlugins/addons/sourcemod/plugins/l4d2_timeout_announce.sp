@@ -7,11 +7,11 @@ new playerDC[MAXPLAYERS+1];
 
 public Plugin:myinfo = 
 {
-	name			=	"[L4D2] Timeout Announce",
-	author			=	"B[R]UTUS",
-	description		=	"Informs other players when a client will lose connection with server.",
-	version			=	PLUGIN_VERSION,
-	url				=	"https://github.com/BRU7U5"
+	name = "[L4D2] Timeout Announce",
+	author = "B[R]UTUS",
+	description	= "Informs other players when a client will lose connection with server.",
+	version	= PLUGIN_VERSION,
+	url	= "https://github.com/BRU7U5"
 }
 
 public OnPluginStart() 
