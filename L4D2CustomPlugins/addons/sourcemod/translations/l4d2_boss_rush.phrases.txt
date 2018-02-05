@@ -1,0 +1,38 @@
+﻿"Phrases"
+{
+	"Tank Spawn Announce"
+	{
+		"en"	"{red}Tank spawned! Freezing distance points!{default}"
+		"ru"	"{red}Танк впереди! Очки прохождения заморожены!{default}"
+	}
+
+	"Tank Killed Announce"
+	{
+		"en"	"{olive}Tank is dead. Unfreezing distance points!{default}"
+		"ru"	"{olive}Танк мертв. Очки прохождения разморожены!{default}"
+	}
+
+	"Witch Spawn Announce"
+	{
+		"en"	"{red}Witch spawned! Freezing distance points!{default}"
+		"ru"	"{red}Ведьма впереди! Очки прохождения заморожены!{default}"
+	}
+
+	"Witch Killed Announce"
+	{
+		"en"	"{olive}Witch is dead. Unfreezing distance points!{default}"
+		"ru"	"{olive}Ведьма убита. Очки прохождения разморожены!{default}"
+	}
+
+	"Escape Event Started Announce"
+	{
+		"en"	"Found {olive}Escape Event{default}. {blue}Unfreezing distance points!{default}"
+		"ru"	"Обнаружено {olive}Событие Спасения{default}. {blue}Очки прохождения разморожены!{default}"
+	}
+
+	"Escape Event Tank Spawn Announce"
+	{
+		"en"	"{red}Tank spawned{default}! But points won't be frozen because {olive}Escape Event {default}has started!"
+		"ru"	"{red}Появился танк{default}! Очки прохождения не будут заморожены так как началось {olive}Спасение!"
+	}
+}
