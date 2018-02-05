@@ -11,7 +11,7 @@ public Plugin:myinfo =
 	author			=	"B[R]UTUS",
 	description		=	"Informs other players when a client will lose connection with server.",
 	version			=	PLUGIN_VERSION,
-	url				=	""
+	url				=	"https://github.com/BRU7U5"
 }
 
 public OnPluginStart() 
