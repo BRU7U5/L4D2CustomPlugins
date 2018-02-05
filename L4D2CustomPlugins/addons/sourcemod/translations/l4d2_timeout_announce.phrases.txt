@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"Lost Connection Announce"
+	{
+		"en"	"{olive}%N{red} has lost connection with server!{default}"
+		"ru"	"{olive}%N{red} потерял соединение с сервером!{default}"
+	}
+
+	"Restored Connection Announce"
+	{
+		"en"	"{olive}%N{blue} has restored connection with server.{default}"
+		"ru"	"{olive}%N{blue} восстановил соединение с сервером.{default}"
+	}
+}
